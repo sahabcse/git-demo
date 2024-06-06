@@ -1,0 +1,26 @@
+What is git?
+
+		Git is a Version Control System (VCS) designed to make it easier to have multiple versions of a code base, 
+sometimes across multiple developers or teams.
+
+		It allows you to see changes you make to your code and easily revert them
+
+what is Github?
+		Github.com is a website that hosts git repositories on a remote server
+
+		Hosting repositories on Github facilitates the sharing of codebases among teams by providing a GUI to easily fork or clone repos to a local machine
+
+Setting up git?
+
+		Download and install the git software based upon the OS
+		git config --global user.name
+		git config --global user.emaili
+
+Connecting git with Github
+
+		In order to prevent having to enter your password each time you push up to Github, you must configure git and Github to recognize 
+		Secured Shell (SSH) keys that you generate.
+
+Git environment
+		
+		
