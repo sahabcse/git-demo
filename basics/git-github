@@ -21,6 +21,25 @@ Connecting git with Github
 		In order to prevent having to enter your password each time you push up to Github, you must configure git and Github to recognize 
 		Secured Shell (SSH) keys that you generate.
 
+Git information
+
+		git log - command shows the details information
+
 Git environment
 		
+		Git has 3 places to move the files
+		1) Working
+		2) Staging
+		3) Commit
+
+		File states
+		1) Tracked - Files are exsist in the previous snapshot or commit
+		2) Untracked - New files added since the last commit
+		
+		Tracked files
+		Unmodifies - Files haven't changed since the last commit
+		Modified - Files have been changed 
+		Staged - File moved into stage environment
+
+		git status - Viewing the status
 		
